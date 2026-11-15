@@ -247,7 +247,7 @@ Enter Issue ID: 1
 ✔ Book returned. Days late: 4 | Fine: ₹8.00
 ```
 
-> Replace this with your own output if it differs.
+
 
 ---
 
