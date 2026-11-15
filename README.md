@@ -45,7 +45,7 @@ A simple **menu-driven Library Management System** written in **Core Java**. It 
 
 ## 🖼️ Screenshots
 
-> Replace the image paths with your own screenshots (save them in a `screenshots/` folder).
+
 
 | Main Menu | Add / View Books |
 |:---:|:---:|
