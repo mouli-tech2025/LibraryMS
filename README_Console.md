@@ -3,7 +3,7 @@
 ![Java](https://img.shields.io/badge/Java-17%2B-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Console App](https://img.shields.io/badge/Type-Console%20Application-black?style=for-the-badge)
 ![OOP](https://img.shields.io/badge/Concepts-7%20OOP%20Pillars-blue?style=for-the-badge)
-![License](https://img.shields.io/badge/Academic-OOP%20Mini%20Project-yellow?style=for-the-badge)
+
 
 A simple **menu-driven Library Management System** written in **Core Java**. It runs entirely in the terminal and uses no database, no framework and no external libraries. It is built to demonstrate **all 7 core OOP concepts** in one small, easy-to-understand project.
 
@@ -55,9 +55,9 @@ A simple **menu-driven Library Management System** written in **Core Java**. It 
 |:---:|:---:|
 | ![Students](screenshots/students.png) | ![Issue Book](screenshots/issue.png) |
 
-| Return Book with Fine | Exception Handling |
+| Return Book with Fine | Library Statistics |
 |:---:|:---:|
-| ![Return](screenshots/return.png) | ![Exceptions](screenshots/exceptions.png) |
+| ![Return](screenshots/return.png) | ![Statistics](screenshots/statistics.png) |
 
 ---
 
@@ -148,8 +148,7 @@ public void setTotalCopies(int totalCopies) throws InvalidInputException {
      └── InvalidInputException
 ```
 
-*(Optional: add your own UML diagram image here)*
-![Class Diagram](screenshots/class-diagram.png)
+
 
 ---
 
