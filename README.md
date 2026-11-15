@@ -1,4 +1,4 @@
-# 📚 BookSphere – Console Library Management System
+# 📚 Library Management System
 
 ![Java](https://img.shields.io/badge/Java-17%2B-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Console App](https://img.shields.io/badge/Type-Console%20Application-black?style=for-the-badge)
@@ -155,7 +155,7 @@ public void setTotalCopies(int totalCopies) throws InvalidInputException {
 ## 📁 Project Structure
 
 ```text
-BookSphere-Console/
+LibraryMS/
 ├── README.md
 ├── screenshots/                  # Your project screenshots
 └── src/com/library/
@@ -223,7 +223,7 @@ The menu appears in the terminal. Type the number of an option and press **Enter
 
 ```text
 ========================================
-        BOOKSPHERE - LIBRARY SYSTEM
+         LIBRARY SYSTEM
 ========================================
  1. Add Book
  2. View All Books
@@ -261,9 +261,8 @@ Enter Issue ID: 1
 ---
 
 
-- **Course:** Object-Oriented Programming (OOP) Lab – Mini Project
-- **College:** *Your College Name*
-- **GitHub:** [mouli-tech2025/BookSphere](https://github.com/mouli-tech2025/BookSphere)
+
+Mouli Biswas🦋
 
 ---
 
